@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>50 Assam Air Squadron Alumni Network</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>50 Assam Air Squadron Alumni Network</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#directory">Alumni Directory</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to the 50 Assam Air Squadron Alumni Network</h2>
+        <p>Connecting past and present cadets of the 50 Assam Air Squadron NCC.</p>
+    </section>
+
+    <section id="directory">
+        <h2>Alumni Directory</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Occupation</th>
+                    <th>Social Media Handles</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>John Doe</td>
+                    <td>Software Engineer</td>
+                    <td><a href="#">LinkedIn</a></td>
+                    <td>johndoe@example.com</td>
+                </tr>
+                <!-- Add more alumni rows here -->
+            </tbody>
+        </table>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need assistance, please contact us at <a href="mailto:alumni@example.com">alumni@example.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 50 Assam Air Squadron NCC Alumni Network</p>
+    </footer>
+</body>
+</html>
